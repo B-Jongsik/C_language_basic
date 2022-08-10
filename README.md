@@ -1,3 +1,6 @@
 # C_language_basic
 C언어 basic (초급자 관련 기초 코딩)
-1. Hello World
+사용 프로그램 : Visual Studio 2022
+무료다운 링크 : https://visualstudio.microsoft.com/ko/downloads/
+목차 
+  1. Hello World
