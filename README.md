@@ -6,4 +6,4 @@ C언어 basic (초급자 관련 기초 코딩)
   1. Hello World (printf 함수 사용)
   2. 변수와 상수 (Variables & Constants)
   3. 데이터 타입 (data type)
-  4. 연산자
+  4. 연산자 (operand)
